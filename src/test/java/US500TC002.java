@@ -4,6 +4,6 @@ public class US500TC002 {
 
     //new try
     public static void main(String[] args) {
-
+        System.out.println("hello word");
     }
 }
