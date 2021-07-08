@@ -3,4 +3,7 @@ public class US500TC002 {
     //salad is done
 
     //new try
+    public static void main(String[] args) {
+
+    }
 }
